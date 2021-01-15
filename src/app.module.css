@@ -14,9 +14,8 @@
 	flex: 1 1 30%;
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 48rem) {
 	.content {
-		display: flex;
 		flex-direction: column;
 	}
 }
